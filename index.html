@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>AVALIAÇÃO DO BEIÇO</title>
+</head>
+<body>
+    <header>
+        <h1>HUB DE MIDIAS</h1>
+        <p id = "gerenciador">Gerenciador de Jogos, Filmes e Series</p>
+    </header>
+
+    <main class="container">
+        <section class="painel-cadastro">
+            <h2>Adiconar á lista de Mídia</h2>
+            <form action="" id="form_midia">
+                <input type="text" id="titulo" placeholder="Ex: Valorante" required>
+                <select id="categoria" required>
+                    <option value="categoria">Categoria</option>
+                    <option value="Jogos">Jogos</option>
+                    <option value="Filmes">Filmes</option>
+                    <option value="Series">Series</option>
+                </select>
+                <input type="text" id="plataforma" placeholder="Ex: Netfix" required>
+                <input type="text" id="nota" step="0.1" min="0" max="10" placeholder="Ex: 0 a 10" required>
+                <button class="btnSalvar">Adicionar</button>
+            </form>
+        </section>
+        <section class="painel-catalogo">
+            <div class="filtros">
+                <button>Todos</button>
+                <button>Jogos</button>
+                <button>Filmes</button>
+                <button>Series</button>
+            </div>
+            <div id="catalogo-grid">
+
+            </div>
+        </section>
+    </main>
+    <script src="/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+[
+{
+    "id": "1",
+    "titulo": "Grand Theft Auto V",
+    "categoria": "Jogo",
+    "plataforma": "PlayStation, Xbox, PC",
+    "nota":10,
+    "status": "Concluído",
+    "capa": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
+  },
+  {
+    "id": "2",
+    "titulo": "Minecraft",
+    "categoria": "Jogo",
+    "plataforma": "Multiplataforma",
+    "nota": 7.8,
+    "status": "Jogando",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTBxN53cACjAS2nJcMBvLC0XUFyIaNBMw8ShqIfnjAA&s=10"
+  },
+  {
+    "id": "3",
+    "titulo": "Vingadores: Ultimato",
+    "categoria": "Filme",
+    "plataforma": "Disney+",
+    "nota": 9.5,
+    "status": "Assistido",
+    "capa": "https://www.google.com/imgres?q=vingadores%20ultimato&imgurl=https%3A%2F%2Fdisney.images.edge.bamgrid.com%2Fripcut-delivery%2Fv2%2Fvariant%2Fdisney%2Fa01393ab-13bb-415b-a830-4188ec50fb31%2Fcompose%3FaspectRatio%3D1.78%26format%3Dwebp%26width%3D1200&imgrefurl=https%3A%2F%2Fwww.disneyplus.com%2Fpt-br%2Fbrowse%2Fentity-b39aa962-be56-4b09-a536-98617031717f&docid=ksZiXBuQ4z8JNM&tbnid=8X21q8POjC0KNM&vet=12ahUKEwjg9N_Am-SWAxXUlJUCHSkTGXAQnPAOegUIggIQAA..i&w=1200&h=674&hcb=2&ved=2ahUKEwjg9N_Am-SWAxXUlJUCHSkTGXAQnPAOegUIggIQAA"
+  },
+  {
+    "id": "4",
+    "titulo": "Titanic",
+    "categoria": "Filme",
+    "plataforma": "Paramount+",
+    "nota": 7.9,
+    "status": "Assistido",
+    "capa": "https://www.google.com/imgres?q=vingadores%20ultimato&imgurl=https%3A%2F%2Fdisney.images.edge.bamgrid.com%2Fripcut-delivery%2Fv2%2Fvariant%2Fdisney%2Fa01393ab-13bb-415b-a830-4188ec50fb31%2Fcompose%3FaspectRatio%3D1.78%26format%3Dwebp%26width%3D1200&imgrefurl=https%3A%2F%2Fwww.disneyplus.com%2Fpt-br%2Fbrowse%2Fentity-b39aa962-be56-4b09-a536-98617031717f&docid=ksZiXBuQ4z8JNM&tbnid=8X21q8POjC0KNM&vet=12ahUKEwjg9N_Am-SWAxXUlJUCHSkTGXAQnPAOegUIggIQAA..i&w=1200&h=674&hcb=2&ved=2ahUKEwjg9N_Am-SWAxXUlJUCHSkTGXAQnPAOegUIggIQAA"
+  },
+  {
+    "id": "5",
+    "titulo": "Stranger Things",
+    "categoria": "Série",
+    "plataforma": "Netflix",
+    "nota": 5.0,
+    "status": "Não assistido",
+    "capa": "https://www.google.com/imgres?q=stranger%20things%20capa&imgurl=https%3A%2F%2Fi.pinimg.com%2F564x%2F00%2Fea%2F7c%2F00ea7c88e9e80f8bea6d13f3f7f0a810.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F740982944928437243%2F&docid=9AxW-iGBYXHjBM&tbnid=zpyANT99ewAL1M&vet=12ahUKEwit-c-EnOSWAxUzOrkGHTXRJdkQnPAOegUI2wIQAA..i&w=500&h=747&hcb=2&ved=2ahUKEwit-c-EnOSWAxUzOrkGHTXRJdkQnPAOegUI2wIQAA"
+  },
+  {
+    "id": "6",
+    "titulo": "La Casa de Papel",
+    "categoria": "Série",
+    "plataforma": "Netflix",
+    "nota": 9.9,
+    "status": "Concluído",
+    "capa": "https://www.google.com/imgres?q=la%20casa%20de%20papel%20capa&imgurl=https%3A%2F%2Fwww.quadrorama.com.br%2Fwp-content%2Fuploads%2F2021%2F10%2FLa-Casa-De-Papel-capa-7778568d.png&imgrefurl=https%3A%2F%2Fwww.quadrorama.com.br%2Fproduto%2Fla-casa-de-papel-capa%2F%3Fsrsltid%3DAfmBOopLLwVulBE6_87PAMrdEjAVMRQAt5WnK2jH0nCWYz1o2SgT5eaH&docid=vlOOGtYDxZ8i1M&tbnid=joP-TQUJTko6jM&vet=12ahUKEwjczYabnOSWAxU8HLkGHVTvNdsQnPAOegQITRAA..i&w=351&h=497&hcb=2&ved=2ahUKEwjczYabnOSWAxU8HLkGHVTvNdsQnPAOegQITRAA"
+  }
+]

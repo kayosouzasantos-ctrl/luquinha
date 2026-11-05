@@ -1,56 +1,56 @@
 [
-  {
-      "id": "1",
-      "titulo": "Grand Theft Auto V",
-      "categoria": "Jogos",
-      "plataforma": "PlayStation, Xbox, PC",
-      "nota": 10,
-      "status": "Concluído",
-      "capa": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png"
-  },
-  {
-      "id": "2",
-      "titulo": "Minecraft",
-      "categoria": "Jogos",
-      "plataforma": "Multiplataforma",
-      "nota": 7.8,
-      "status": "Jogando",
-      "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwTBxN53cACjAS2nJcMBvLC0XUFyIaNBMw8ShqIfnjAA&s=10"
-  },
-  {
-      "id": "3",
-      "titulo": "Vingadores: Ultimato",
-      "categoria": "Filmes",
-      "plataforma": "Disney+",
-      "nota": 9.5,
-      "status": "Assistido",
-      "capa": "https://files.meiobit.com/wp-content/uploads/2019/04/20190424avengers-endgame-001a.jpg"
-  },
-  {
-      "id": "4",
-      "titulo": "Titanic",
-      "categoria": "Filmes",
-      "plataforma": "Paramount+",
-      "nota": 7.9,
-      "status": "Assistido",
-      "capa": "https://i.pinimg.com/736x/bc/cd/5d/bccd5d6ea077ff7755ccf5460de8c7cb.jpg"
-  },
-  {
-      "id": "5",
-      "titulo": "Stranger Things",
-      "categoria": "Series",
-      "plataforma": "Netflix",
-      "nota": 5.0,
-      "status": "Não assistido",
-      "capa": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/Stranger-Things-libera-5-minutos-da-temporada-final-veja-como-assistir.jpg?w=1200&h=1200&crop=1"
-  },
-  {
-      "id": "6",
-      "titulo": "La Casa de Papel",
-      "categoria": "Series",
-      "plataforma": "Netflix",
-      "nota": 9.9,
-      "status": "Concluído",
-      "capa": "https://www.quadrorama.com.br/wp-content/uploads/2021/10/La-Casa-De-Papel-capa-7778568d.png"
-  }
-]
+    {
+        "id": "1",
+        "titulo": "Grand Theft Auto V",
+        "categoria": "Jogos",
+        "plataforma": "PlayStation, Xbox, PC",
+        "nota": 10,
+        "status": "Concluído",
+        "capa": "https://infoglobo.com.br"
+    },
+    {
+        "id": "2",
+        "titulo": "Minecraft",
+        "categoria": "Jogos",
+        "plataforma": "Multiplataforma",
+        "nota": 7.8,
+        "status": "Jogando",
+        "capa": "https://gstatic.com"
+    },
+    {
+        "id": "3",
+        "titulo": "Vingadores: Ultimato",
+        "categoria": "Filmes",
+        "plataforma": "Disney+",
+        "nota": 9.5,
+        "status": "Assistido",
+        "capa": "https://wikimedia.org"
+    },
+    {
+        "id": "4",
+        "titulo": "Titanic",
+        "categoria": "Filmes",
+        "plataforma": "Paramount+",
+        "nota": 7.9,
+        "status": "Assistido",
+        "capa": "https://gstatic.com"
+    },
+    {
+        "id": "5",
+        "titulo": "Stranger Things",
+        "categoria": "Series",
+        "plataforma": "Netflix",
+        "nota": 5.0,
+        "status": "Não assistido",
+        "capa": "https://gstatic.com"
+    },
+    {
+        "id": "6",
+        "titulo": "La Casa de Papel",
+        "categoria": "Series",
+        "plataforma": "Netflix",
+        "nota": 9.9,
+        "status": "Concluído",
+        "capa": "https://gstatic.com"
+    }
+  ]

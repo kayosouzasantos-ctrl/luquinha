@@ -1,15 +1,11 @@
-```html
 <!DOCTYPE html>
 <html lang="pt-br">
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AVALIAÇÃO DO BEIÇO</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
     <header>
@@ -23,7 +19,6 @@
             <h2>Adicionar à Lista de Mídia</h2>
 
             <form action="" id="form_midia">
-
                 <input 
                     type="text" 
                     id="titulo" 
@@ -31,7 +26,7 @@
                     required
                 >
 
-                <select name="" id="categoria" required>
+                <select id="categoria" required>
                     <option value="" disabled selected>Categoria</option>
                     <option value="Jogos">Jogos</option>
                     <option value="Filmes">Filmes</option>
@@ -58,30 +53,23 @@
                 <button type="submit" class="btn-salvar">
                     Adicionar
                 </button>
-
             </form>
         </section>
 
         <section class="painel-catalogo">
-
             <div class="filtros">
-                <button>Todos</button>
-                <button>Jogos</button>
-                <button>Series</button>
-                <button>Filmes</button>
+                <button class="ativo" data-categoria="Todos">Todos</button>
+                <button data-categoria="Jogos">Jogos</button>
+                <button data-categoria="Series">Series</button>
+                <button data-categoria="Filmes">Filmes</button>
             </div>
 
             <div id="catalogo-grid" class="grid">
-                <!-- Os cards serão exibidos aqui -->
             </div>
-
         </section>
 
     </main>
 
     <script src="script.js"></script>
-
 </body>
 </html>
-```
-
